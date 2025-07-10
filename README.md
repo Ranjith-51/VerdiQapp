@@ -31,25 +31,27 @@ An eco-conscious mobile application developed as a **group project**, combining 
 ---
 ## 📦 Installation
 
-Clone the repo  
-git clone https://github.com/yourusername/verdiq-app.git
-cd verdiq-app
-Install dependencies : flutter pub get
-Run the app : flutter run
+###Clone the repo  
+- git clone https://github.com/yourusername/verdiq-app.git
+- cd verdiq-app
+###Install dependencies
+- flutter pub get
+###Run the app
+- flutter run
 
 Ensure Flutter SDK is installed and environment variables are set correctly.
 
-🤝 Team Members
+##🤝 Team Members
 - Ranjith Kumar.R
 - Aswin.B
 - Bharathwaj.K
 - Pradosh
 
-💡 Future Enhancements
+##💡 Future Enhancements
 
 -Add gamification elements to encourage eco-friendly habits
 -Offline support for plant tips
 -Community forum integration
 
-🌍 Let’s Make the Earth Greener, Together! 🌿
+##🌍 Let’s Make the Earth Greener, Together! 🌿
 
